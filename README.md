@@ -8,6 +8,10 @@
 ## IEEE DAPPS: https://ieeedapps.com/
 ### 締切: Mar 15, 2026
 
+## IEEE COMPSAC2026: https://ieeecompsac.computer.org/2026/all-symposia-and-workshops/
+### ワークショップ締切: Workshop & special session papers due: 15 April 2026
+### https://ieeecompsac.computer.org/2026/2nd-ieee-international-workshop-on-blockchain-and-distributed-ledger-technologies-blockdlt-2026/
+
 ## IEEE ICBC: https://icbc2026.ieee-icbc.org/important-dates (6/1-5)
 ### 締切: March 25 2026 (Workshop Papers Submission)
 
