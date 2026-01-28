@@ -2,6 +2,9 @@
 
 # 学会投稿先(2025年度版-2026年度前半)
 
+## IEEE Access: https://ieeeaccess.ieee.org/
+### 年中可
+
 ## IEEE DAPPS: https://ieeedapps.com/
 ### 締切: Mar 15, 2026
 
@@ -25,7 +28,7 @@
 
 ## IEEE BigData2025: https://bigdataieee.org/
 
-## 
+## IEEE Conference on Dependable and Secure Computing: https://attend.ieee.org/dsc-2025/
 
 # 国内研究部会 (2025年度版)
 ## 電子情報通信学会 - インターネットアーキテクチャ研究会: https://www.ieice.org/cs/ia/jpn/doku.php
