@@ -11,7 +11,7 @@
 ## IEEE ICBC: https://icbc2026.ieee-icbc.org/important-dates (6/1-5)
 ### 締切: March 25 2026 (Workshop Papers Submission)
 
-## IEEE Smart World Congress: https://swc-ieee-2026.github.io/metaverse/
+## IEEE Smart World Congress: https://swc-ieee-2026.github.io/
 ### 締切: April 1 (Full Paper)
 
 ## IEEE COINS 2026: https://coinsconf.com/cfp/
